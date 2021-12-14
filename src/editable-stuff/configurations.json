@@ -1,0 +1,29 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "devIntro": "Suman Jyoti Dhal",
+  "devDesc": "|Software Engineer | Programmer | Frontend Developer ",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/sumansd",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-facebook",
+      "url": "https://www.facebook.com/sumanjyoti.dhal",
+      "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/suman-jyoti-338097180/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutDev": "Specialized Web & Mob Application Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components by deploying React concepts"
+}
+

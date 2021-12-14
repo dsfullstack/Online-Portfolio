@@ -1,0 +1,49 @@
+{
+  "name": "developers-portfolio",
+  "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
+  "homepage": "https://suman.dev.io/",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Suman Jyoti Dhal",
+    "email": "dhal.sumanjyoti@gmail.com",
+    "url": "https://github.com/sumansd"
+  },
+  "dependencies": {
+    "@popperjs/core": "^2.1.1",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.4.1",
+    "gh-pages": "^2.2.0",
+    "jquery": "^3.4.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-iframe": "^1.8.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "react-typist": "^2.0.5",
+    "typescript": "^3.8.3"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
