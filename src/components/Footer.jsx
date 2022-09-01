@@ -16,7 +16,7 @@ const Footer = () => {
         href="https://github.com/mallikarjuna-sharma"
         aria-label="My GitHub"
       >
-        suman Jyoti Dhal 
+       ER suman Jyoti Dhal 
       </a>{" "}
       using <i className="fab fa-react"></i>
       <p>
