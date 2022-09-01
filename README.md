@@ -129,7 +129,7 @@ Following awesome people have created their own version.
       <a href="https://www.facebook.com/hashir.shoaeb">
         <img src="https://avatars2.githubusercontent.com/u/35165481?v=4" width="100px" alt="" />
         <br />
-        <sub><b>Mallikarjuna Sharma</b></sub>
+        <sub><b>Suman Jyoti Dhal</b></sub>
       </a>
       <br />
     </td>
