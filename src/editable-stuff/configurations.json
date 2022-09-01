@@ -22,6 +22,12 @@
       "image": "fa-linkedin",
       "url": "https://www.linkedin.com/in/suman-jyoti-338097180/",
       "style": "socialicons"
+    },
+    {
+      "id": 2,
+      "image": "fa-instagram",
+      "url": "https://www.instagram.com/sumanjyotidhal/",
+      "style": "socialicons"
     }
   ],
   "aboutDev": "Specialized Web & Mob Application Developer with hands-on experience in identifying web-based user interactions along with designing & implementing highly-responsive user interface components by deploying React concepts"
