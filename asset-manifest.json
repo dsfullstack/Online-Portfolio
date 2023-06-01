@@ -1,31 +1,19 @@
 {
   "files": {
-    "main.css": "/Online-Portfolio/static/css/main.d461adef.chunk.css",
-    "main.js": "/Online-Portfolio/static/js/main.6667e98b.chunk.js",
-    "main.js.map": "/Online-Portfolio/static/js/main.6667e98b.chunk.js.map",
-    "runtime-main.js": "/Online-Portfolio/static/js/runtime-main.e25a61c5.js",
-    "runtime-main.js.map": "/Online-Portfolio/static/js/runtime-main.e25a61c5.js.map",
-    "static/css/2.de424728.chunk.css": "/Online-Portfolio/static/css/2.de424728.chunk.css",
-    "static/js/2.27ed27ff.chunk.js": "/Online-Portfolio/static/js/2.27ed27ff.chunk.js",
-    "static/js/2.27ed27ff.chunk.js.map": "/Online-Portfolio/static/js/2.27ed27ff.chunk.js.map",
+    "main.css": "/Online-Portfolio/static/css/main.5ab7ae21.css",
+    "main.js": "/Online-Portfolio/static/js/main.ecdc0bc4.js",
+    "static/media/SumanCv.pdf": "/Online-Portfolio/static/media/SumanCv.bca17a12fa932fc43e54.pdf",
+    "static/media/mhealth.png": "/Online-Portfolio/static/media/mhealth.2d0006e7093ddfd2bcff.png",
+    "static/media/rotary.png": "/Online-Portfolio/static/media/rotary.31f066e69ce9120fe42d.png",
+    "static/media/fea1.png": "/Online-Portfolio/static/media/fea1.7f5ae2d818df4de39e7b.png",
+    "static/media/tictoe.png": "/Online-Portfolio/static/media/tictoe.497fbc8629830838748f.png",
+    "static/media/ios.png": "/Online-Portfolio/static/media/ios.b375d4eddd505bc0471e.png",
     "index.html": "/Online-Portfolio/index.html",
-    "precache-manifest.09132193f88091b6cb9890a7923cd0e4.js": "/Online-Portfolio/precache-manifest.09132193f88091b6cb9890a7923cd0e4.js",
-    "service-worker.js": "/Online-Portfolio/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/Online-Portfolio/static/css/2.de424728.chunk.css.map",
-    "static/css/main.d461adef.chunk.css.map": "/Online-Portfolio/static/css/main.d461adef.chunk.css.map",
-    "static/js/2.27ed27ff.chunk.js.LICENSE.txt": "/Online-Portfolio/static/js/2.27ed27ff.chunk.js.LICENSE.txt",
-    "static/media/SumanCv.pdf": "/Online-Portfolio/static/media/SumanCv.388f45a4.pdf",
-    "static/media/fea1.png": "/Online-Portfolio/static/media/fea1.2364ae1a.png",
-    "static/media/ios.png": "/Online-Portfolio/static/media/ios.e4372950.png",
-    "static/media/mhealth.png": "/Online-Portfolio/static/media/mhealth.d005e82d.png",
-    "static/media/rotary.png": "/Online-Portfolio/static/media/rotary.fba49fb4.png",
-    "static/media/tictoe.png": "/Online-Portfolio/static/media/tictoe.086cba9f.png"
+    "main.5ab7ae21.css.map": "/Online-Portfolio/static/css/main.5ab7ae21.css.map",
+    "main.ecdc0bc4.js.map": "/Online-Portfolio/static/js/main.ecdc0bc4.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e25a61c5.js",
-    "static/css/2.de424728.chunk.css",
-    "static/js/2.27ed27ff.chunk.js",
-    "static/css/main.d461adef.chunk.css",
-    "static/js/main.6667e98b.chunk.js"
+    "static/css/main.5ab7ae21.css",
+    "static/js/main.ecdc0bc4.js"
   ]
 }
