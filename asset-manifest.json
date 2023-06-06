@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Online-Portfolio/static/css/main.5ab7ae21.css",
-    "main.js": "/Online-Portfolio/static/js/main.ecdc0bc4.js",
+    "main.js": "/Online-Portfolio/static/js/main.838ab0fa.js",
     "static/media/SumanCv.pdf": "/Online-Portfolio/static/media/SumanCv.bca17a12fa932fc43e54.pdf",
     "static/media/mhealth.png": "/Online-Portfolio/static/media/mhealth.2d0006e7093ddfd2bcff.png",
     "static/media/rotary.png": "/Online-Portfolio/static/media/rotary.31f066e69ce9120fe42d.png",
@@ -10,10 +10,10 @@
     "static/media/ios.png": "/Online-Portfolio/static/media/ios.b375d4eddd505bc0471e.png",
     "index.html": "/Online-Portfolio/index.html",
     "main.5ab7ae21.css.map": "/Online-Portfolio/static/css/main.5ab7ae21.css.map",
-    "main.ecdc0bc4.js.map": "/Online-Portfolio/static/js/main.ecdc0bc4.js.map"
+    "main.838ab0fa.js.map": "/Online-Portfolio/static/js/main.838ab0fa.js.map"
   },
   "entrypoints": [
     "static/css/main.5ab7ae21.css",
-    "static/js/main.ecdc0bc4.js"
+    "static/js/main.838ab0fa.js"
   ]
 }
